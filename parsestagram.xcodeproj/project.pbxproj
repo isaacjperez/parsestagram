@@ -19,6 +19,7 @@
 		DA82054D26BA1EDD00EA74FD /* parsestagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA82054C26BA1EDD00EA74FD /* parsestagramUITests.swift */; };
 		DA82055B26BA2B6300EA74FD /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA82055A26BA2B6300EA74FD /* LoginViewController.swift */; };
 		DA82055D26BA2B7000EA74FD /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA82055C26BA2B7000EA74FD /* FeedViewController.swift */; };
+		DA85A3EF26CD61AE00837FF7 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA85A3EE26CD61AE00837FF7 /* CommentCell.swift */; };
 		DA95A6BA26BCDDD20007F49B /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA95A6B926BCDDD20007F49B /* PostCell.swift */; };
 		DAE9B78726BB575B009B688F /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAE9B78626BB575B009B688F /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
@@ -65,6 +66,7 @@
 		DA82054E26BA1EDD00EA74FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA82055A26BA2B6300EA74FD /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		DA82055C26BA2B7000EA74FD /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+		DA85A3EE26CD61AE00837FF7 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		DA95A6B926BCDDD20007F49B /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		DAE9B78626BB575B009B688F /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -142,6 +144,7 @@
 				DA82055C26BA2B7000EA74FD /* FeedViewController.swift */,
 				DAE9B78626BB575B009B688F /* CameraViewController.swift */,
 				DA95A6B926BCDDD20007F49B /* PostCell.swift */,
+				DA85A3EE26CD61AE00837FF7 /* CommentCell.swift */,
 			);
 			path = parsestagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				DA82055D26BA2B7000EA74FD /* FeedViewController.swift in Sources */,
 				DA82052D26BA1EDB00EA74FD /* SceneDelegate.swift in Sources */,
 				DA95A6BA26BCDDD20007F49B /* PostCell.swift in Sources */,
+				DA85A3EF26CD61AE00837FF7 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
